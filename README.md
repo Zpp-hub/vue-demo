@@ -1,5 +1,15 @@
 # vuecli-demo
 
+# npm 
+```
+npm install
+```
+## 推荐地址
+```
+npm install --registry=https://registry.npm.taobao.org
+```
+
+
 ## Project setup
 ```
 npm install
